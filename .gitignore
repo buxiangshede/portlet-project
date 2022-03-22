@@ -1,0 +1,18 @@
+# MacOS files
+.DS_STORE
+
+# Windows files
+Thumbs.db
+$RECYCLE.BIN/
+[Dd]esktop.ini
+
+.idea
+.vscode
+*.log
+.eslintcache
+.stylelintcache
+
+node_modules
+build
+coverage
+yarn.lock
